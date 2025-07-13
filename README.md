@@ -1,6 +1,6 @@
 ### Hi, I'm Jacob!
 
-I am an aspiring software engineer and sophomore computer science major at George Mason University.
+I am an aspiring software engineer and junior computer science major at George Mason University.
 
 <!--
 **Jakovage/Jakovage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
